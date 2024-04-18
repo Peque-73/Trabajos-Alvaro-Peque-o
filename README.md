@@ -4,7 +4,7 @@ Trabajos en Python:
 - [Asignar IDs numericos a variables categoricas](https://github.com/Peque-73/MCD-METODOS-ESTADISTICOS-BASICOS/blob/main/Tareas/Reporte%201/Assign_ID.py)
 
 Trabajos en R studio:
-- [Análisis descriptivpo y creación de gráficas](https://github.com/Peque-73/MCD-METODOS-ESTADISTICOS-BASICOS/blob/main/Tareas/Reporte%202/Reporte%202.R)
+- [Análisis descriptivo y creación de gráficas](https://github.com/Peque-73/MCD-METODOS-ESTADISTICOS-BASICOS/blob/main/Tareas/Reporte%202/Reporte%202.R)
 - [Correlación, prueba de significancia y regresion multiple](https://github.com/Peque-73/MCD-METODOS-ESTADISTICOS-BASICOS/blob/main/Tareas/Reporte%203/Reporte%203.R)
 - [Tarea de regresion lineal, multiple y selección de modelos](https://github.com/Peque-73/MCD-METODOS-ESTADISTICOS-BASICOS/blob/main/Tareas/Evidencia%206.R)
 
